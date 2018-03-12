@@ -26,4 +26,4 @@ cache=${NPM_CACHE_DIR}
 EOT
 
 # install node dependencies
-npm install -ddd
+npm install --unsafe-perm=true --allow-root
