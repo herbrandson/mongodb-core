@@ -28,10 +28,10 @@ EOT
 # install node dependencies
 # npm install --unsafe-perm=true --allow-root
 
-npm install bson
+# npm install bson
+npm install chai
 
 # npm install require_optional
-# npm install chai
 # npm install co
 # npm install conventional-changelog-cli
 # npm install eslint
