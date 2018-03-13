@@ -29,17 +29,18 @@ EOT
 # npm install --unsafe-perm=true --allow-root
 
 npm install bson
-npm install require_optional
-npm install chai
-npm install co
-npm install conventional-changelog-cli
-npm install eslint
-npm install eslint-plugin-prettier
-npm install jsdoc
-npm install mongodb-mock-server
-npm install prettier
-npm install snappy
-npm install kerberos
 
-npm install mongodb-test-runner
+# npm install require_optional
+# npm install chai
+# npm install co
+# npm install conventional-changelog-cli
+# npm install eslint
+# npm install eslint-plugin-prettier
+# npm install jsdoc
+# npm install mongodb-mock-server
+# npm install prettier
+# npm install snappy
+# npm install kerberos
+
+# npm install mongodb-test-runner
 
