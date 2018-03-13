@@ -29,7 +29,7 @@ EOT
 # npm install --unsafe-perm=true --allow-root
 
 # npm install bson
-npm install chai
+npm install chai --verbose
 
 # npm install require_optional
 # npm install co
